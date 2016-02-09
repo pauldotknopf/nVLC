@@ -1,0 +1,3 @@
+[submodule "submodules/Taygeta"]
+	path = submodules/Taygeta
+	url = https://github.com/theonlylawislove/Taygeta.git
